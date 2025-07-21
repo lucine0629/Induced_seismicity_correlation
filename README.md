@@ -1,5 +1,5 @@
 # Induced_seismicity_correlation
-Two-point power-law correlation analysis of geothermal induced earthquakes and statistical modelling for subsurface permeability
+Two-point power-law correlation analysis of geothermal induced earthquakes and statistical modelling for subsurface permeability.
 I applied the analysis to the dataset from the Geysers geothermal field in California
 
 
