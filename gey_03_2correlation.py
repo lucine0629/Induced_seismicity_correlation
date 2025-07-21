@@ -2,8 +2,7 @@
 """
 Created on Tue Feb 27 10:18:44 2024
 
-@author: KEHOK
-## edited by szu-ying lai
+@author: KEHOK, S.Y. lai
 """
 
 import numpy as np
@@ -18,7 +17,7 @@ import os
 from sklearn.cluster import k_means
 import geodetic_conversion as gc
 
-# KetilH stuff
+# self-developed stuff
 from smooties import smooth2d
 from gravmag.common import gridder
 import earthquake.quake as quake
